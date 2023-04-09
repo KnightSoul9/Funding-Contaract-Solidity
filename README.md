@@ -8,9 +8,12 @@ This Contract is use for following purposes:-
 3.Also fund from this contarct can be send to different funders but that requires the owner authority.
 
 Tech Used
-Solidity
+ Solidity
 
 Want to contribute ?
+
 Create a fork
+
 Make your Contribution
+
 Create a pull request
